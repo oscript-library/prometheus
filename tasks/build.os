@@ -1,5 +1,3 @@
-// Сборка пакета: opm build → .ospx в out/.
-// Запуск: opm run build
 #Использовать 1commands
 #Использовать fs
 

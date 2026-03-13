@@ -1,5 +1,3 @@
-// Запуск тестов с замером покрытия. Отчёты - out/ (Generic, Cobertura, stat.json).
-// Запуск: opm run coverage
 #Использовать 1commands
 #Использовать fs
 #Использовать coverage

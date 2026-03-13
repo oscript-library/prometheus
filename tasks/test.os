@@ -1,5 +1,3 @@
-// Запуск тестов (1testrunner). Отчёт - out/tests.xml.
-// Запуск: opm run test или opm test
 #Использовать 1testrunner
 #Использовать fs
 
