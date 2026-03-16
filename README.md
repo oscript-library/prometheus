@@ -2,7 +2,7 @@
 
 [![OpenYellow](https://openyellow.openintegrations.dev/data/badges/1175541070.svg)](https://openyellow.org/grid?filter=top&repo=1175541070)
 [![telegram chat](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/wonder_yellow)
-[![Ask Devin](https://deepwiki.com/badge.svg)](https://app.devin.ai/org/yellow-hammer/wiki/yellow-hammer/prometheus)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yellow-hammer/prometheus)
 
 Библиотека сбора метрик Prometheus для OneScript: реестр коллекторов, типы метрик (Counter, Gauge, Histogram,
 Summary), Vec-варианты с лейблами и сериализация в [Prometheus Text Format](https://prometheus.io/docs/instrumenting/exposition_formats/).
